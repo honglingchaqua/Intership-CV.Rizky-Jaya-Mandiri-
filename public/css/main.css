@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-image: url('https://cdn.discordapp.com/attachments/857674223295266886/1004268904119533588/unknown.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
